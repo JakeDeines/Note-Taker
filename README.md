@@ -5,6 +5,7 @@
 ## Description
 
 ## Deployed Website
+https://jakedeines.github.io/Note-Taker/.
 
 ## Github Repository URL
 
