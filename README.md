@@ -1,5 +1,6 @@
 # Note-Taker
-
+In this Homework i created an app that lets you create and save notes, view previously saved notes,
+and delete previously saved notes. I used an express backend and saved and retrieved the data from a Json file.
 
 
 ## Description
