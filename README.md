@@ -8,7 +8,7 @@
 https://jakedeines.github.io/Note-Taker/.
 
 ## Github Repository URL
-
+https://github.com/JakeDeines/Note-Taker
 
 ## Deployed Website Image
 ![note taker pic 1](https://user-images.githubusercontent.com/67669417/103471682-027a2a00-4d38-11eb-9c0a-5a152b2dd877.PNG)
